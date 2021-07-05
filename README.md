@@ -10,7 +10,7 @@
 
 🔹 My name is **Andrey** Chechkenev.  
 🔸 I was born in July, **2009**.  
-💻 Programming languages:  
+💻 Programming languages:<br />
 <img src="https://i.ibb.co/km1sN5Y/java.png" alt="Java" title="Java" />
 <img src="https://i.ibb.co/5hLz74k/cs.png" alt="C#" title="C#" />
 <img src="https://i.ibb.co/dLGNx4Q/cpp.png" alt="C++" title="C++" />
