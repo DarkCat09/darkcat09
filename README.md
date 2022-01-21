@@ -6,7 +6,7 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkCat09&show_icons=true&hide=contribs&title_color=4576c4&icon_color=4e9c7c&border_radius=10)  
 ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkCat09&langs_count=6&hide=css,smarty&layout=compact&title_color=4576c4&icon_color=4e9c7c&border_radius=10)
 -->
-<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DarkCat09&show_icons=true&hide=contribs&title_color=4576c4&icon_color=4e9c7c&border_radius=10" />
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DarkCat09&show_icons=true&hide=contribs&theme=vue-dark&border_radius=10" />
 
 🔹 My name is **Andrey** Chechkenev.  
 🔸 I was born in July, **2009**.  
@@ -23,7 +23,3 @@
 <img src="https://i.ibb.co/TLMWVKX/html.png" alt="HTML" title="HTML" />
 <img src="https://i.ibb.co/HgKBX69/css.png" alt="CSS" title="CSS" />  
 📫 [aacd0709@mail.ru](mailto:aacd0709@mail.ru)
-
-<br />
-<br />
-<img align="left" alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkCat09&langs_count=8&hide=smarty&layout=compact&title_color=4576c4&icon_color=4e9c7c&border_radius=10&card_width=445" />
