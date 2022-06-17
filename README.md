@@ -1,6 +1,7 @@
-## ❄️Hello🌤️
-[![View my site](https://i.ibb.co/3zCs0Rg/button-viewsite.png)](http://darkcat09.github.io/)
-[![Résumé](https://i.ibb.co/qjSxDSs/button2.png)](https://resume.github.io/?DarkCat09)
+## Hello!
+<a href="https://darkcat09.codeberg.page/"><img src="https://i.ibb.co/3zCs0Rg/button-viewsite.png" alt="View my website" height="48"></a>
+<a href="https://resume.github.io/?DarkCat09"><img src="https://i.ibb.co/qjSxDSs/button2.png" alt="GH Résumé" height="48"></a>
+<a href="https://t.me/dcat09"><img src="https://telegram.org/img/website_icon.svg?4" alt="@dcat09" height="48"></a>
 
 <!--
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkCat09&show_icons=true&hide=contribs&title_color=4576c4&icon_color=4e9c7c&border_radius=10)  
@@ -22,4 +23,4 @@
 <img src="https://i.ibb.co/yPRhNPw/php.png" alt="PHP" title="PHP" />
 <img src="https://i.ibb.co/TLMWVKX/html.png" alt="HTML" title="HTML" />
 <img src="https://i.ibb.co/HgKBX69/css.png" alt="CSS" title="CSS" />  
-📫 [aacd0709@mail.ru](mailto:aacd0709@mail.ru)
+📫 [a.chechkenev@yandex.ru](mailto:a.chechkenev@yandex.ru)
