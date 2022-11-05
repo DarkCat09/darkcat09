@@ -1,5 +1,5 @@
-<a href="https://darkcat09.codeberg.page/"><img src="https://i.ibb.co/3zCs0Rg/button-viewsite.png" alt="View my website" height="48"></a>
-<a href="https://t.me/dcat09"><img src="https://telegram.org/img/website_icon.svg?4" alt="@dcat09" height="48"></a>
+[![View my site](https://img.shields.io/badge/View-my%20site-brightgreen)](https://darkcat09.codeberg.page)
+[![Telegram: @dcat09](https://img.shields.io/badge/dynamic/json?color=blue&label=Telegram&query=subs&url=https://tglivesubsapi.vercel.app/getsubs/dcat09)](https://t.me/dcat09)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkCat09&show_icons=true&hide=contribs&theme=vue-dark&border_radius=10)
 
