@@ -1,4 +1,4 @@
-[![View my site](https://img.shields.io/badge/View-my%20site-green)](https://darkcat09.codeberg.page)  
+[![View my site](https://img.shields.io/badge/View-my%20site-green)](https://dc09.ru)  
 [![View detailed stats](https://img.shields.io/badge/View-detailed%20stats-yellow)](STATS.md)  
 [![Telegram: @dcat09](https://img.shields.io/badge/dynamic/json?color=blue&label=dcat09%20subs&logo=telegram&query=subs&url=https://tglivesubsapi.vercel.app/getsubs/dcat09)](https://t.me/dcat09)
 
